@@ -6,3 +6,6 @@
 https://blog.csdn.net/lwpyh/article/details/79949561 \
 第二章 决策树 详细代码可见第二章文件夹，具体分析见博客\
 https://blog.csdn.net/lwpyh/article/details/80143926 \
+第三章 logistics回归 详细代码可见第三章章文件夹，具体分析见博客\
+https://blog.csdn.net/lwpyh/article/details/80482143 \
+https://blog.csdn.net/lwpyh/article/details/80541616 \
